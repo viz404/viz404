@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in developing apps
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : vishal.gxm@gmail.com
 
