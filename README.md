@@ -88,6 +88,3 @@ I am an entry level web developer with a passion for creating visually appealing
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
