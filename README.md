@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I am an entry level web developer with a passion for creating visually appealing and functional websites .I have a strong understanding of HTML, CSS, and JavaScript, and I am always looking to learn new technologies and techniques to improve my skills .I am a quick learner and thrive in collaborative environments.  
+I am an entry level web developer with a passion for creating visually appealing and functional websites .I have a strong understanding of JavaScript, React, HTML and CSS, and I am always looking to learn new technologies and techniques to improve my skills .I am a quick learner and thrive in collaborative environments.  
   
 
 <br/>  
@@ -24,7 +24,7 @@ I am an entry level web developer with a passion for creating visually appealing
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning ReactJS  
+- 🌱 I’m currently learning NodeJS
   
 
 - ❓ Ask me about anything related to JavaScript  
