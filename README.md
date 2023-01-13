@@ -86,5 +86,4 @@ I am an entry level web developer with a passion for creating visually appealing
 
 <br/>  
 
-
 <br />
