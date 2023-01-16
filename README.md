@@ -61,29 +61,8 @@ I am an entry level web developer with a passion for creating visually appealing
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=viz404&show_icons=true&count_private=true&hide_border=true&theme=dracula" width="100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viz404&hide_border=true&layout=compact&theme=dracula" width="100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
+<br/>   
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=viz404&&style=flat-square)  
-  
-
-<br/>  
-
-<br />
