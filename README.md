@@ -63,6 +63,9 @@ I am an entry level web developer with a passion for creating visually appealing
 
 <br/>   
 
+## My Skillset
+React | Redux | JavaScript | TypeScript | Node JS | Express JS | MongoDB | Mongoose | Java
+
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=viz404&&style=flat-square)  
