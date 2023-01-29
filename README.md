@@ -11,11 +11,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=viz404&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=VishalDinesh15)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Profile views counter](https://komarev.com/ghpvc/?username=viz404&&style=flat-square)
