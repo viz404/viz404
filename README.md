@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I'm looking to collaborate on web projects<br>🤝 I'm looking for help with Backend<br>🌱 I'm currently learning Backend development<br>💬 Ask me anything about JavaScript<br>⚡ Fun fact : I love dark mode
+👯 I'm looking to collaborate on web projects<br>🤝 I'm looking for help with Cross Platform Application<br>🌱 I'm currently learning React Native<br>💬 Ask me anything about JavaScript<br>⚡ Fun fact : I love dark mode
 
 
 ## 🌐 Socials:
